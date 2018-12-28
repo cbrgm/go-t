@@ -49,8 +49,8 @@ Please have a look at [docs/features.md](https://github.com/cbrgm/go-t/blob/mast
 | List support          | 🚧 [planned] | Create/Delete from command line or stdin                                                          |
 | Auto-Completion       | 🚧 [planned] | Auto-completion different shells like bash, zsh, fish, ...                                        |
 
--   📝 [planned] = Feature is planned, a concept is still being worked on or not yet started.
--   🚧 [alpha] = Commands / Flags / Arguments can change incompatibly with a new release.
+-   🚧 [planned] = Feature is planned, a concept is still being worked on or not yet started.
+-   ✔ [alpha] = Commands / Flags / Arguments can change incompatibly with a new release.
 -   ✔ [beta] = Commands / Flags / Arguments are considered to be mostly stable and backwards compatible to an earlier released version.
 -   ✔ [stable] = Commands / Flags / Arguments are stable and will not change with a new release.
 
