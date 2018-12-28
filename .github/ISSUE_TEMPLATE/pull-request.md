@@ -2,7 +2,7 @@
 name: Pull Request
 about: Create a new pull request to submit changes
 title: "[PULL REQUEST]"
-labels: pull request
+labels: ''
 assignees: ''
 
 ---

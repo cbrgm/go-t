@@ -2,8 +2,9 @@
 name: Feature request
 about: Ask for missing features or improvements
 title: "[FEATURE REQUEST]"
-labels: feature request
+labels: ''
 assignees: ''
+
 ---
 
 #### Description

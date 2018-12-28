@@ -1,8 +1,8 @@
 ---
-name: 
-about: 
+name: Bug
+about: Something isn't working
 title: "[BUG]"
-labels: bug report
+labels: bug
 assignees: ''
 
 ---
