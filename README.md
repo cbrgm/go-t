@@ -45,9 +45,9 @@ Please have a look at [docs/features.md](https://github.com/cbrgm/go-t/blob/mast
 | Sorting               | ✔ [alpha]    | Support sorting for output                                                                        |
 | Trends                | 🚧 [planned] | Retrieve trend information from different countries                                               |
 | Searching             | ✔  [alpha]  | Search for specifific tweet content , hashtags, links, ... keywords via regex                     |
-| Direct Messages       | 📝 [planned] | List, send and delete direct messages from command line or stdin                                  |
-| List support          | 📝 [planned] | Create/Delete from command line or stdin                                                          |
-| Auto-Completion       | 📝 [planned] | Auto-completion different shells like bash, zsh, fish, ...                                        |
+| Direct Messages       | 🚧 [planned] | List, send and delete direct messages from command line or stdin                                  |
+| List support          | 🚧 [planned] | Create/Delete from command line or stdin                                                          |
+| Auto-Completion       | 🚧 [planned] | Auto-completion different shells like bash, zsh, fish, ...                                        |
 
 -   📝 [planned] = Feature is planned, a concept is still being worked on or not yet started.
 -   🚧 [alpha] = Commands / Flags / Arguments can change incompatibly with a new release.
