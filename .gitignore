@@ -1,0 +1,13 @@
+# output dirs
+_output/*
+dist/*
+
+# vendor dir
+vendor/*
+
+# coverage
+coverage.out
+coverage-all.*
+
+# misc
+.idea/*
