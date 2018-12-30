@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Ask for missing features or improvements
-title: "[FEATURE REQUEST]"
-labels: feature request
+title: 'Feature Request: '
+labels: new feature
 assignees: ''
 
 ---
