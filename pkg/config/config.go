@@ -159,7 +159,7 @@ func IsConfigExists() bool {
 
 // IsValidAlias Check if an account alias valid.
 func IsValidAlias(alias string) bool {
-	return regexp.MustCompile("^[a-zA-Z][a-zA-Z0-9-_]+$").MatchString(alias)
+	return regexp.MustCompile("[a-zA-Z0-9-_]+$").MatchString(alias)
 }
 
 // GetAccountConfig retrieves account specific configuration.

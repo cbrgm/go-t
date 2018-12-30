@@ -249,13 +249,23 @@ func TestIsValidAlias(t *testing.T) {
 			want:  true,
 		},
 		{
-			name:  "test alias with numbers",
+			name:  "test alias with numbers at the end",
 			alias: "test93",
 			want:  true,
 		},
 		{
-			name:  "test alias with special chars",
+			name:  "test alias with numbers at the beginning",
+			alias: "93test",
+			want:  true,
+		},
+		{
+			name:  "test alias with special chars at the end",
 			alias: "test-93_",
+			want:  true,
+		},
+		{
+			name:  "test alias with special chars at the beginning",
+			alias: "_test-93",
 			want:  true,
 		},
 		{
